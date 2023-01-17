@@ -39,3 +39,7 @@ main {
 .nota {
   display: flex;
 }
+
+#terms {
+  display: flex
+}
